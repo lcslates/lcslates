@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+Chris here. 
+
+I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofollow">Acme Studio</a>. 
+
+I work too much.
+
+🔭Working on <a href="https://www.cuppa.sh" rel="nofollow">Cuppa: AI Content Creator</a>
+🔭Working on <a href="https://urlmonitor.com" rel="nofollow">URL Monitor</a>
+🔭Working on <a href="https://webwand.ai" rel="nofollow">WebWand.AI</a>
+🔭Working on <a href="https://shipped.digital" rel="nofollow">Shipped</a>
+
+Want to build something together? Always looking for new apps and projects to start and build. 
+
 <!--
 **lcslates/lcslates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
