@@ -4,8 +4,6 @@ Chris here.
 
 I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofollow">Acme Studio</a>. 
 
-I work too much.
-
 🔭Working on <a href="https://www.cuppa.sh" rel="nofollow">Cuppa: AI Content Creator</a>
 🔭Working on <a href="https://urlmonitor.com" rel="nofollow">URL Monitor</a>
 🔭Working on <a href="https://webwand.ai" rel="nofollow">WebWand.AI</a>
