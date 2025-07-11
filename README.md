@@ -10,6 +10,7 @@ I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofol
 🔭Working on <a href="https://shipped.digital">Shipped</a>
 🔭Working on <a href="https://everypenny.ai">EveryPenny</a>
 🔭Working on <a href="https://nichesitemetrics.com">NicheSiteMetrics</a>
+🔭Working on <a href="https://bullseye.so">Bullseye</a>
 
 Want to build something together? Always looking for new apps and projects to start and build. 
 
