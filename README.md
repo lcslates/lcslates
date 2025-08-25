@@ -5,7 +5,6 @@ Chris here.
 I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofollow">Acme Studio</a>. 
 
 🔭Working on <a href="https://www.cuppa.ai">Cuppa: AI Content Suite</a>
-🔭Working on <a href="https://urlmonitor.com">URL Monitor</a>
 🔭Working on <a href="https://webwand.ai">WebWand.AI</a>
 🔭Working on <a href="https://shipped.digital">Shipped</a>
 🔭Working on <a href="https://everypenny.ai">EveryPenny</a>
