@@ -10,6 +10,9 @@ I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofol
 🔭Working on <a href="https://catart.ai">CatArt.AI</a>
 🔭Working on <a href="https://shipped.digital">Shipped</a>
 🔭Working on <a href="https://bullseye.so">Bullseye</a>
+🔭Working on <a href="https://afterdark.ai">After Dark AI</a>
+🔭Working on <a href="https://Jottings.ai">Jottings AI</a>
+🔭Working on <a href="https://Experts.ink">Experts Ink</a>
 
 Want to build something together? Always looking for new apps and projects to start and build. 
 
