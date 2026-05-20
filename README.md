@@ -13,6 +13,7 @@ I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofol
 🔭Working on <a href="https://afterdark.ai">After Dark AI</a>
 🔭Working on <a href="https://Jottings.ai">Jottings AI</a>
 🔭Working on <a href="https://Experts.ink">Experts Ink</a>
+🔭Working on <a href="https://socialfleet.ai">Social Fleet AI</a>
 
 Want to build something together? Always looking for new apps and projects to start and build. 
 
