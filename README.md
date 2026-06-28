@@ -4,7 +4,7 @@ Chris here.
 
 I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofollow">Acme Studio</a>. 
 
-🔭Working on <a href="https://www.cuppa.ai">Cuppa: Brand Enginneering Workspace</a>
+🔭Working on <a href="https://cuppa.ai">Cuppa: Brand Enginneering Workspace</a>
 🔭Working on <a href="https://dogart.ai">DogArt.AI</a>
 🔭Working on <a href="https://birdart.ai">BirdArt.AI</a>
 🔭Working on <a href="https://catart.ai">CatArt.AI</a>
@@ -15,6 +15,7 @@ I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofol
 🔭Working on <a href="https://Jottings.ai">Jottings AI</a>
 🔭Working on <a href="https://Experts.ink">Experts Ink</a>
 🔭Working on <a href="https://socialfleet.ai">Social Fleet AI</a>
+🔭Working on <a href="https://containers.direct">Containers Direct</a>
 
 Want to build something together? Always looking for new apps and projects to start and build. 
 
