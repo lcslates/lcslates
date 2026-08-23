@@ -17,6 +17,7 @@ I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofol
 🔭Working on <a href="https://socialfleet.ai">Social Fleet AI</a>
 🔭Working on <a href="https://containers.direct">Containers Direct</a>
 🔭Working on <a href="https://betteryears.pet">Better Years, Pet Health</a>
+🔭Working on <a href="https://stfu.bot">STFU Bot</a>
 
 
 Want to build something together? Always looking for new apps and projects to start and build. 
