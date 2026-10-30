@@ -4,11 +4,9 @@ Chris here.
 
 I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofollow">Acme Studio</a>. 
 
-🔭Working on <a href="https://cuppa.ai">Cuppa: Brand Enginneering Workspace</a>
+🔭Working on <a href="https://cuppa.ai">Cuppa AI</a>
 🔭Working on <a href="https://dogart.ai">DogArt.AI</a>
-🔭Working on <a href="https://birdart.ai">BirdArt.AI</a>
 🔭Working on <a href="https://catart.ai">CatArt.AI</a>
-🔭Working on <a href="https://trumpart.ai">TrumpArt.AI</a>
 🔭Working on <a href="https://shipped.digital">Shipped Digital</a>
 🔭Working on <a href="https://bullseye.so">Bullseye</a>
 🔭Working on <a href="https://afterdark.ai">After Dark AI</a>
