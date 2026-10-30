@@ -5,14 +5,14 @@ Chris here.
 I'm building SaaS and Tech projects for <a href="https://acmestud.io" rel="nofollow">Acme Studio</a>. 
 
 🔭Working on <a href="https://cuppa.ai">Cuppa AI</a>
-🔭Working on <a href="https://dogart.ai">DogArt.AI</a>
-🔭Working on <a href="https://catart.ai">CatArt.AI</a>
 🔭Working on <a href="https://shipped.digital">Shipped Digital</a>
 🔭Working on <a href="https://bullseye.so">Bullseye</a>
 🔭Working on <a href="https://afterdark.ai">After Dark AI</a>
 🔭Working on <a href="https://Jottings.ai">Jottings AI</a>
 🔭Working on <a href="https://Experts.ink">Experts Ink</a>
 🔭Working on <a href="https://containers.direct">Containers Direct</a>
+🔭Working on <a href="https://dogart.ai">DogArt.AI</a>
+🔭Working on <a href="https://catart.ai">CatArt.AI</a>
 🔭Working on <a href="https://stfu.bot">STFU Bot</a>
 🔭Working on <a href="https://cool.family">Cool Family</a>
 🔭Working on <a href="https://data.cool">Data Cool</a>
